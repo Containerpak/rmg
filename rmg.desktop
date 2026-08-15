@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Rosalie's Mupen GUI
+Comment=Play Nintendo 64 games with a graphical frontend.
+Exec=rmg %U
+Icon=rmg
+Terminal=false
+Categories=Game;Emulator;
+
