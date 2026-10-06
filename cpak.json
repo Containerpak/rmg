@@ -4,7 +4,7 @@
   "name": "Rosalie's Mupen GUI",
   "description": "Play Nintendo 64 games with a graphical frontend.",
   "version": "0.9.0",
-  "image": "ghcr.io/containerpak/rmg@sha256:da6159daf7e710cf7f71cc2c7b3ee3443004c8565e98e6093985ca0ffb48d3c2",
+  "image": "ghcr.io/containerpak/rmg@sha256:d838e53eb97a1352175f055d807ca6283074b15268dcb29e2e519d0d31de10c8",
   "binaries": [
     "/usr/bin/rmg"
   ],
